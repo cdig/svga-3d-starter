@@ -1,6 +1,7 @@
 # These are good defaults for a Live Schematic
 Make "Config",
   background: true
+  legend: true
   settings: true
   nav: true
   meta:
